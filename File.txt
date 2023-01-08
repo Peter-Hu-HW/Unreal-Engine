@@ -1,0 +1,3 @@
+https://de.slideshare.net/GerkeMaxPreussner/gdc-europe-2014?from_action=save
+\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp   &   MobileShadingRenderer.cpp
+/UnrealEngine-release/Engine/Source/Runtime/VulkanRHI/Private 
