@@ -1,5 +1,6 @@
 # General Procedure
-https://docs.unrealengine.com/5.0/en-US/using-the-android-vulkan-mobile-renderer-in-unreal-engine/
+https://docs.unrealengine.com/5.0/en-US/using-the-android-vulkan-mobile-renderer-in-unreal-engine/ \
+Go to “Edit → Project settings → Platforms → Windows → Default RHI” and select DirectX 11 or Vulkan 
 
 # Detailed Instructions
 () - means optional
@@ -11,6 +12,8 @@ https://docs.unrealengine.com/5.0/en-US/using-the-android-vulkan-mobile-renderer
 Support Vulkan
 
 3. From the menu bar, go to File > Package Project > Android, and select the Android(ASTC) option.
+
+4. Go to “Edit → Project settings → Platforms → Windows → Default RHI” and select DirectX 11 or Vulkan 
 
 ## Enabling Vulkan Preview Rendering in Editor
 If you have enabled Vulkan in your project as described above, a preview rendering option will appear automatically. \
