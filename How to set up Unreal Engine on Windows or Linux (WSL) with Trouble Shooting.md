@@ -8,7 +8,7 @@ Make sure you have the internet connection when something goes wrong.\
 https://docs.unrealengine.com/5.1/en-US/building-unreal-engine-from-source/
 
 ## Debug Step by Step into the C++ source code
-After that, try to add a breakpoint to start debugging.
+After that, try to add a breakpoint in source file (e.g. \Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp) to start debugging.
 
 ## Detailed steps quoted from the Unreal Engine 5.1.0 / README.md
 ### Windows
