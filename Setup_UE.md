@@ -96,7 +96,7 @@ The command ... exicted with code 6.
 **Solution**:There are multiple reasons to this problem, including adding some wrong letters.
 Try to redo the whole process will solve it.
 
-### ERROR from Unreal Engine：Undefined Identifier Warning
+### Error C4668: “__cplusplus” not defined from Unreal Engine: Undefined Identifier Warning
 **Solution**:
 Engine/Source/Program/UnrealBuildTool/Configuration/ModuleRule.cs
 set bEnableUndefinedIdentifierWarning=false
