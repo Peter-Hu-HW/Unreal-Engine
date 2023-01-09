@@ -1,0 +1,29 @@
+Engine/Source/Runtime/
+
+Core/Public/HAL
+Hardware Abstraction Layer
+
+Core/Private/GenericPlatform
+Generic implementation for most platforms
+
+RenderCore/Private/RenderResource
+                      	   ProfileDebugging
+
+RHI
+Core/Async/Taskgraph
+
+
+Renderer/Private/DeferredShadingRenderer.cpp 
+Renderer/Private/MobileShadingRenderer.cpp/FMobileSceneRenderer
+
+ 
+
+ 
+
+
+
+
+
+
+
+
